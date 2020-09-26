@@ -148,6 +148,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dataStructure.cpp" />
+    <ClCompile Include="LinkList.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkList.h" />
+    <ClInclude Include="LinkListDemo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
